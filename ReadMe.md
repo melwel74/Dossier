@@ -16,4 +16,7 @@ This is a simple program that takes in a *string* and returns the string in **re
 | test_reverse.py | The test program |
 
 
-*
+```python
+def reverse_string(string):
+    return string[::-1]
+```
