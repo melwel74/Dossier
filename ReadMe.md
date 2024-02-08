@@ -24,3 +24,7 @@ def reverse_string(string):
 | Function | Description |
 | --- | --- |
 | reverse_string | This function takes in a string and returns the string in reverse order |
+
+
+### Relative Pictures
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
