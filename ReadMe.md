@@ -21,9 +21,6 @@ def reverse_string(string):
     return string[::-1]
 ```
 
-| Function | Description |
-| --- | --- |
-| reverse_string | This function takes in a string and returns the string in reverse order |
 
 
 ### Relative Pictures
