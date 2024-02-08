@@ -5,7 +5,7 @@ This is a simple program that takes in a *string* and returns the string in **re
 
 ## List of Files
 
-- [ ] ReadMe.md
+- [ ] ReadMe.md 👓
 - [ ] reverse.py
 - [ ] test_reverse.py
 
